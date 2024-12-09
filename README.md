@@ -42,3 +42,5 @@ Ensure to use the proper connections and pins based on your hardware setup.
 
    ```bash
    git clone https://github.com/yourusername/STM32-HX711-Weight-Scale.git
+
+Youtube: https://www.youtube.com/shorts/bFfYANUlhHY
